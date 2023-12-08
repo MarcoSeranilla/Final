@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274365488195",
+    "project_id": "myapp-709b0",
+    "storage_bucket": "myapp-709b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274365488195:android:e71443839ff23e2f8108f6",
+        "android_client_info": {
+          "package_name": "com.example.mekus_mekus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGCdEllJ46GjF3cw03h0XgIsTYIgTuTgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
